@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://wildansu.github.io/sitemap.gz
